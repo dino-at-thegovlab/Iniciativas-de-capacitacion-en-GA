@@ -190,6 +190,8 @@ Es un espacio privilegiado para llevar adelante una estrategia que permita imagi
 * Estratégia de RP
 * Trabalho colaborativo e aberto (wiki)
 
+Ejemplo de cómo alguien puede agregar info directamente. 
+
 
 
 
